@@ -1,0 +1,3 @@
+true : annot,debug
+true : package(unix)
+true : use_zooph
